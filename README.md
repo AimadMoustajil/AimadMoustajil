@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm MOUSTAJIl Aimad</h1>
 <h3 align="center">A passionate mobile developer from morocco</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aimadmoustajil&label=Profile%20views&color=0e75b6&style=flat" alt="aimadmoustajil" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **react native**
 
@@ -21,3 +25,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aimad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aimad" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aimadmoustajil&show_icons=true&locale=en&layout=compact" alt="aimadmoustajil" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aimadmoustajil&show_icons=true&locale=en" alt="aimadmoustajil" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimadmoustajil&" alt="aimadmoustajil" /></p>
