@@ -9,17 +9,14 @@
   <div style="width: 80%; margin: 0 auto; text-align: center;">
     <h1>Aima Moustajil</h1>
     <div style="font-size: 1.2rem; margin-top: 20px; animation: fadeIn 1s ease-in-out;">
-      <p><i style="margin-right: 10px; color: #007bff;" class="fas fa-user"></i> I'm a 19-year-old mobile application developer passionate about creating innovative solutions.</p>
+      <p><img src="linkedin_logo.png" alt="LinkedIn Logo" style="margin-right: 10px; width: 24px; height: 24px;"> I'm a 19-year-old mobile application developer passionate about creating innovative solutions.</p>
       <p>Contact me via:</p>
       <ul style="list-style: none; padding: 0;">
-        <li><i style="margin-right: 10px; color: #007bff;" class="fab fa-linkedin"></i> <a style="color: #007bff; text-decoration: none;" href="https://www.linkedin.com/in/aima-moustajil" target="_blank">LinkedIn</a></li>
-        <li><i style="margin-right: 10px; color: #007bff;" class="fas fa-envelope"></i> Email: your-email@example.com</li>
-        <li><i style="margin-right: 10px; color: #007bff;" class="fas fa-phone"></i> Phone: +1234567890</li>
+        <li><img src="linkedin_logo.png" alt="LinkedIn Logo" style="margin-right: 10px; width: 24px; height: 24px;"> <a style="color: #007bff; text-decoration: none;" href="https://www.linkedin.com/in/aima-moustajil" target="_blank">LinkedIn</a></li>
+        <li><img src="email_logo.png" alt="Email Logo" style="margin-right: 10px; width: 24px; height: 24px;"> Email: your-email@example.com</li>
+        <li><img src="phone_logo.png" alt="Phone Logo" style="margin-right: 10px; width: 24px; height: 24px;"> Phone: +1234567890</li>
       </ul>
     </div>
   </div>
 </body>
 </html>
-
-
-
