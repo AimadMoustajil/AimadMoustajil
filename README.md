@@ -40,7 +40,7 @@
   <div class="container">
     <h1>Aima Moustajil</h1>
     <div class="description">
-      <p><i class="fas fa-user icon"></i> I'm a 19-year-old mobile application developer passionate about creating innovative solutions.</p>
+      <p><i class="fas fa-user icon"></i> I am a 19-year-old mobile application developer with a passion for creating innovative solutions.</p>
       <p>Contact me via:</p>
       <ul>
         <li><i class="fab fa-linkedin icon"></i> <a href="https://www.linkedin.com/in/aima-moustajil" target="_blank">LinkedIn</a></li>
@@ -51,4 +51,5 @@
   </div>
 </body>
 </html>
+
 
