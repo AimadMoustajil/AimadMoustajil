@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm MOUSTAJIl Aimad</h1>
 <h3 align="center">A passionate mobile developer from morocco</h3>
 
-<img align="right" alt="Coding" width="1000" height="500" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimadmoustajil&label=Profile%20views&color=0e75b6&style=flat" alt="aimadmoustajil" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aimad-moustajil-62352b280/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/aimad-moustajil-62352b280/)" alt="aimad moustajil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aimad-moustajil-62352b280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aimad-moustajil-62352b280/" height="30" width="40" /></a>
 <a href="https://discord.gg/aimad_moustajil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aimad_moustajil" height="30" width="40" /></a>
 </p>
 
