@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aimad moustajil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aimad moustajil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aimad moustajil" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/aimad-moustajil-62352b280/)" alt="aimad moustajil" height="30" width="40" /></a>
 <a href="https://discord.gg/aimad_moustajil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aimad_moustajil" height="30" width="40" /></a>
 </p>
 
